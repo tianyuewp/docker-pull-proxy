@@ -1,1 +1,1 @@
-docker.io/golang:1.21 registry.cn-hangzhou.aliyuncs.com/fork-image/golang:1.21
+docker.io/node:18 registry.cn-hangzhou.aliyuncs.com/fork-image/node:18
