@@ -1,1 +1,1 @@
-ufoym/deepo:cpu registry.cn-hangzhou.aliyuncs.com/fork-image/deepo:cpu
+kicbase/stable:v0.0.27 registry.cn-hangzhou.aliyuncs.com/fork-image/kicbase:v0.0.27
