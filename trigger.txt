@@ -1,1 +1,1 @@
-docker.io/node:18-bullseye registry.cn-hangzhou.aliyuncs.com/fork-image/node:18-bullseye
+ufoym/deepo:cpu registry.cn-hangzhou.aliyuncs.com/fork-image/deepo:cpu
