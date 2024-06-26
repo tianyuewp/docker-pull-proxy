@@ -1,1 +1,1 @@
-rancher/shell:v0.1.24 registry.cn-hangzhou.aliyuncs.com/fork-image/rancher:shell-v0.1.24
+rancher/gitjob:v0.9.8 registry.cn-hangzhou.aliyuncs.com/fork-image/rancher:gitjob-v0.9.8
