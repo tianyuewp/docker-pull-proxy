@@ -1,1 +1,1 @@
-rancher/rancher-agent:v2.8.5 registry.cn-hangzhou.aliyuncs.com/fork-image/rancher:rancher-agent-v2.8.5
+rancher/kube-api-auth:v0.2.1 registry.cn-hangzhou.aliyuncs.com/fork-image/rancher:kube-api-auth-v0.2.1
