@@ -1,1 +1,1 @@
-rancher/kube-api-auth:v0.2.1 registry.cn-hangzhou.aliyuncs.com/fork-image/rancher:kube-api-auth-v0.2.1
+danchitnis/xrdp:ubuntu-xfce registry.cn-hangzhou.aliyuncs.com/fork-image/ubuntu:xrdp-xfce
