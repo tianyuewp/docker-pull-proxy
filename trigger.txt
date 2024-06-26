@@ -1,1 +1,1 @@
-rancher/rancher:stable registry.cn-hangzhou.aliyuncs.com/fork-image/rancher:stable
+rancher/shell:v0.1.24 registry.cn-hangzhou.aliyuncs.com/fork-image/rancher:shell-v0.1.24
