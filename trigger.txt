@@ -1,1 +1,1 @@
-rancher/gitjob:v0.9.8 registry.cn-hangzhou.aliyuncs.com/fork-image/rancher:gitjob-v0.9.8
+rancher/rancher-webhook:v0.4.7 registry.cn-hangzhou.aliyuncs.com/fork-image/rancher:rancher-webhook-v0.4.7
