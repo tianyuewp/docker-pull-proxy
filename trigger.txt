@@ -1,1 +1,1 @@
-danchitnis/xrdp:ubuntu-xfce registry.cn-hangzhou.aliyuncs.com/fork-image/ubuntu:xrdp-xfce
+kubesphere/ks-installer:v3.3.2 registry.cn-hangzhou.aliyuncs.com/fork-image/kubesphere-ks-installer:v3.3.2
