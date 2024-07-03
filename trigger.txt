@@ -1,1 +1,1 @@
-kubesphere/ks-installer:v3.3.2 registry.cn-hangzhou.aliyuncs.com/fork-image/kubesphere-ks-installer:v3.3.2
+jaegertracing/jaeger-query:1.27 registry.cn-hangzhou.aliyuncs.com/fork-image/kubesphere:jaeger-query-1.27
