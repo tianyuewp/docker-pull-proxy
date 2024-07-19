@@ -1,1 +1,1 @@
-jaegertracing/jaeger-query:1.27 registry.cn-hangzhou.aliyuncs.com/fork-image/kubesphere:jaeger-query-1.27
+okwrtdsh/anaconda3:tf-cpu registry.cn-hangzhou.aliyuncs.com/fork-image/anaconda3:okwrtdsh-tf-cpu
