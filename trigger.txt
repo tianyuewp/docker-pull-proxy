@@ -1,1 +1,1 @@
-okwrtdsh/anaconda3:tf-cpu registry.cn-hangzhou.aliyuncs.com/fork-image/anaconda3:okwrtdsh-tf-cpu
+tensorflow/tensorflow:1.15.5-py3 registry.cn-hangzhou.aliyuncs.com/fork-image/tensorflow:1.15.0-py3
