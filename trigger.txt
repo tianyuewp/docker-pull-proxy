@@ -1,1 +1,1 @@
-tensorflow/tensorflow:1.15.5-py3 registry.cn-hangzhou.aliyuncs.com/fork-image/tensorflow:1.15.0-py3
+heartexlabs/label-studio:1.21.1 registry.cn-hangzhou.aliyuncs.com/fork-image/label-studio:1.21.1
