@@ -1,1 +1,1 @@
-heartexlabs/label-studio:latest registry.cn-hangzhou.aliyuncs.com/fork-image/label-studio:latest
+ubuntu:22.04 registry.cn-hangzhou.aliyuncs.com/fork-image/ubuntu:22.04
