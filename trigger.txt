@@ -1,1 +1,1 @@
-heartexlabs/label-studio:1.21.1 registry.cn-hangzhou.aliyuncs.com/fork-image/label-studio:1.21.1
+heartexlabs/label-studio:latest registry.cn-hangzhou.aliyuncs.com/fork-image/label-studio:latest
