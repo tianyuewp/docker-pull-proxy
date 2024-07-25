@@ -1,1 +1,1 @@
-ubuntu:22.04 registry.cn-hangzhou.aliyuncs.com/fork-image/ubuntu:22.04
+build-image-base:latest registry.cn-hangzhou.aliyuncs.com/fork-image/build-image-base:20240725
