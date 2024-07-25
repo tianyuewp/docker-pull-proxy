@@ -1,1 +1,1 @@
-build-image-base:latest registry.cn-hangzhou.aliyuncs.com/fork-image/build-image-base:20240725
+golang:1.22.4 registry.cn-hangzhou.aliyuncs.com/fork-image/golang:1.22.4
