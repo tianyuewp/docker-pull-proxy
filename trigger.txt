@@ -1,1 +1,1 @@
-openpolicyagent/opa:0.63.0 registry.cn-hangzhou.aliyuncs.com/fork-image/openpolicyagent-opa:0.63.0
+clickhouse/clickhouse-server:23.11-alpine registry.cn-hangzhou.aliyuncs.com/fork-image/clickhouse-server:23.11-alpine
