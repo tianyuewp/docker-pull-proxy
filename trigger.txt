@@ -1,1 +1,1 @@
-cvat/ui:latest registry.cn-hangzhou.aliyuncs.com/fork-image/cvat:ui-2.16.1
+postgres:15-alpine registry.cn-hangzhou.aliyuncs.com/fork-image/postgres:15-alpine
