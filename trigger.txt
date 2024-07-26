@@ -1,1 +1,1 @@
-timberio/vector:0.26.0-alpine registry.cn-hangzhou.aliyuncs.com/fork-image/timberio-vector:0.26.0-alpine
+grafana/grafana-oss:10.1.2 registry.cn-hangzhou.aliyuncs.com/fork-image/grafana-oss:10.1.2
