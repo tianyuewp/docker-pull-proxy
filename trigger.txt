@@ -1,1 +1,1 @@
-cvat/server:2.16.1 registry.cn-hangzhou.aliyuncs.com/fork-image/cvat:server-2.16.1
+cvat/server:latest registry.cn-hangzhou.aliyuncs.com/fork-image/cvat:server-2.16.1
