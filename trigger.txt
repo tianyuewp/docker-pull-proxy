@@ -1,1 +1,1 @@
-clickhouse/clickhouse-server:23.11-alpine registry.cn-hangzhou.aliyuncs.com/fork-image/clickhouse-server:23.11-alpine
+timberio/vector:0.26.0-alpine registry.cn-hangzhou.aliyuncs.com/fork-image/timberio-vector:0.26.0-alpine
