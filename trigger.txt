@@ -1,1 +1,1 @@
-apache/kvrocks:2.7.0 registry.cn-hangzhou.aliyuncs.com/fork-image/kvrocks:2.7.0
+traefik:v2.10 registry.cn-hangzhou.aliyuncs.com/fork-image/traefik:v2.10
