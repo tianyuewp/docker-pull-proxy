@@ -1,1 +1,1 @@
-postgres:15-alpine registry.cn-hangzhou.aliyuncs.com/fork-image/postgres:15-alpine
+redis:7.2.3-alpine registry.cn-hangzhou.aliyuncs.com/fork-image/redis:7.2.3-alpine
