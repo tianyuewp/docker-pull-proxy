@@ -1,1 +1,1 @@
-node:20-bullseye registry.cn-hangzhou.aliyuncs.com/fork-image/node:20-bullseye
+tensorflow/tensorflow:1.14.0-gpu-py3 registry.cn-hangzhou.aliyuncs.com/fork-image/tensorflow:1.14.0-gpu-py3
