@@ -1,1 +1,1 @@
-tensorflow/tensorflow:1.15.5-gpu-py3 registry.cn-hangzhou.aliyuncs.com/fork-image/tensorflow:1.15.5-gpu-py3
+tensorflow/tensorflow:1.14.0-py3 registry.cn-hangzhou.aliyuncs.com/fork-image/tensorflow:1.14.0-py3
