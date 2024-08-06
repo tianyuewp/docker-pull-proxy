@@ -1,1 +1,1 @@
-danchitnis/xrdp:centos8-xfce registry.cn-hangzhou.aliyuncs.com/fork-image/centos:8-xfce-xrdp
+danchitnis/xrdp:ubuntu-xfce registry.cn-hangzhou.aliyuncs.com/fork-image/ubuntu:xfce-xrdp
