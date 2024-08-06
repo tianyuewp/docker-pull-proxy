@@ -1,1 +1,1 @@
-tensorflow/tensorflow:1.14.0-py3 registry.cn-hangzhou.aliyuncs.com/fork-image/tensorflow:1.14.0-py3
+danchitnis/xrdp:centos8-xfce registry.cn-hangzhou.aliyuncs.com/fork-image/centos:8-xfce-xrdp
