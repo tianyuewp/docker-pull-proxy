@@ -1,1 +1,1 @@
-danchitnis/xrdp:ubuntu-xfce registry.cn-hangzhou.aliyuncs.com/fork-image/ubuntu:xfce-xrdp
+heartexlabs/label-studio:1.13.1 registry.cn-hangzhou.aliyuncs.com/fork-image/label-studio:1.13.1
