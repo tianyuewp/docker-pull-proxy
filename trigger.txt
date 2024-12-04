@@ -1,1 +1,1 @@
-heartexlabs/label-studio:1.13.1 registry.cn-hangzhou.aliyuncs.com/fork-image/label-studio:1.13.1
+mysql:8.0 registry.cn-hangzhou.aliyuncs.com/fork-image/mysql:8.0
