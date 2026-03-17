@@ -1,1 +1,1 @@
-mysql:8.0 registry.cn-hangzhou.aliyuncs.com/fork-image/mysql:8.0
+jcrodriguezvpl/jail-debian-full:4.0.4 registry.cn-hangzhou.aliyuncs.com/fork-image/jail:4.0.4-debian-full
