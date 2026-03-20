@@ -1,1 +1,1 @@
-jcrodriguezvpl/jail-debian-full:4.0.4 registry.cn-hangzhou.aliyuncs.com/fork-image/jail:4.0.4-debian-full
+calciumion/new-api:v0.11.7 registry.cn-hangzhou.aliyuncs.com/fork-image/new-api:v0.11.7
