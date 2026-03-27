@@ -1,1 +1,1 @@
-calciumion/new-api:v0.11.7 registry.cn-hangzhou.aliyuncs.com/fork-image/new-api:v0.11.7
+calciumion/new-api:v0.11.8 registry.cn-hangzhou.aliyuncs.com/fork-image/new-api:v0.11.8
